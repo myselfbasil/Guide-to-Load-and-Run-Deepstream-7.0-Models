@@ -9,7 +9,7 @@
   </p>
 </div>
 
-# Guide to Load and Run Peoplenet Deepstream 7.0 Models
+# Guide to Load and Run Peoplenet Deepstream 7.0 Models on a DGPU Device
 
 **Reference Docs:**
 
