@@ -3,7 +3,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="https://github.com/myselfbasil/Guide-to-Load-and-Run-PeopleNet-Deepstream-7.0-Model/blob/8eb8a3e5227cae29d4e9dbc28f0d75aa7206bac4/assets/header_img.jpg"
+        src="https://github.com/myselfbasil/Guide-to-Load-and-Run-PeopleNet-Deepstream-7.0-Model/blob/8eb8a3e5227cae29d4e9dbc28f0d75aa7206bac4/assets/header_img.png"
       >
     </a>
   </p>
