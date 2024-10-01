@@ -76,3 +76,10 @@ $ deepstream-app -c source1_usb_dec_infer_resnet_int8.txt
 ```
 
 **There you go! Now you can see the output.**
+---
+
+**Made with 🫶🏻 by Basil**
+
+Check out my medium guide here: [medium.com](https://medium.com/@basilshaji32/guide-to-load-and-run-deepstream-v7-0-models-1119672b12df)
+
+You can go through my notion website: [notion.com](https://basilshaji.notion.site/Guide-to-Load-and-Run-PeopleNet-Deepstream-7-0-Model-18c393562cbd47bf9d2b2564e75e40a2?pvs=4)
